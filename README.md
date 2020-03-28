@@ -6,9 +6,9 @@ In order to use this simple webpage based application you will need to `console.
 
 ```
 exports.createUser = (username, password) => {
-    console.log([createUser] started) //<--- like this
+    console.log("[createUser] started") //<--- like this
     ... more code here ...
-    console.log([createUser] ended) //<--- and this
+    console.log("[createUser] ended") //<--- and this
 };
 ```
 
